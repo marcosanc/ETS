@@ -10,6 +10,7 @@ namespace ETS
     {
         /// <summary>
         /// Punto de entrada principal para la aplicación. 
+        /// comentario
         /// </summary>
         [STAThread]
         static void Main()
